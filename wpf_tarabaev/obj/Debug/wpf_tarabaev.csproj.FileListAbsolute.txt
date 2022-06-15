@@ -1,0 +1,88 @@
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe.config
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\bin\Debug\wpf_tarabaev.pdb
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.AssemblyReference.cache
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\MainWindow.g.cs
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\PageEmployee.g.cs
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\PageMain.g.cs
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\App.g.cs
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.cache
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.lref
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\App.baml
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\MainWindow.baml
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\PageEmployee.baml
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\PageMain.baml
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.g.resources
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.Properties.Resources.resources
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.GenerateResource.cache
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.CoreCompileInputs.cache
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.exe
+D:\Visual studio Codes\wpf_tarabaev\wpf_tarabaev\obj\Debug\wpf_tarabaev.pdb
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe.config
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.pdb
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\MainWindow.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageEmployee.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageMain.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\App.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.cache
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.lref
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\App.baml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\MainWindow.baml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageEmployee.baml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageMain.baml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.g.resources
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.Properties.Resources.resources
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.GenerateResource.cache
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.CoreCompileInputs.cache
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.exe
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.pdb
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_Content.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\TitleEmployee.mdf
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\TitleEmployee_log.ldf
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.dll
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.SqlServer.dll
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.xml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.SqlServer.xml
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\bin\Debug\ru\EntityFramework.resources.dll
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.CopyComplete
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\GeneratedInternalTypeHelper.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.AssemblyReference.cache
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageTransactions.g.cs
+O:\ИСпПК-20-1\tarabaev\WP.01-master\wpf_tarabaev\obj\Debug\PageTransactions.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.AssemblyReference.cache
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.SuggestedBindingRedirects.cache
+D:\WP.01-master\wpf_tarabaev\obj\Debug\MainWindow.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageEmployee.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageMain.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\App.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_Content.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.cache
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev_MarkupCompile.lref
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.exe
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.pdb
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageTransaction.g.cs
+D:\WP.01-master\wpf_tarabaev\bin\Debug\TitleEmployee.mdf
+D:\WP.01-master\wpf_tarabaev\bin\Debug\TitleEmployee_log.ldf
+D:\WP.01-master\wpf_tarabaev\bin\Debug\TitleTransaction.mdf
+D:\WP.01-master\wpf_tarabaev\bin\Debug\TitleTransaction_log.ldf
+D:\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe.config
+D:\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.exe
+D:\WP.01-master\wpf_tarabaev\bin\Debug\wpf_tarabaev.pdb
+D:\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.dll
+D:\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.SqlServer.dll
+D:\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.xml
+D:\WP.01-master\wpf_tarabaev\bin\Debug\EntityFramework.SqlServer.xml
+D:\WP.01-master\wpf_tarabaev\bin\Debug\ru\EntityFramework.resources.dll
+D:\WP.01-master\wpf_tarabaev\obj\Debug\App.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\MainWindow.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageEmployee.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageMain.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\PageTransaction.baml
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.g.resources
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.Properties.Resources.resources
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.GenerateResource.cache
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.CoreCompileInputs.cache
+D:\WP.01-master\wpf_tarabaev\obj\Debug\wpf_tarabaev.csproj.CopyComplete
